@@ -1,2 +1,3 @@
-# sky-devops
-sample devops project
+# maven-project
+
+Simple Maven Project
